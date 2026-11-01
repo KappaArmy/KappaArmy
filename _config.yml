@@ -1,13 +1,13 @@
 # Site settings
 title: KappaArmy Clan Homepage
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   KappaArmy - Dein Destiny Clan seit Day-1
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://KappaArmy.github.io" # the base hostname & protocol for your site
-twitter_username: knrc
-github_username:  knrc
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://kappaarmy.github.io" # the base hostname & protocol for your site
+
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-remote-theme
 
 # Build settings
 markdown: kramdown
-permalink: /:year/:title:output_ext
