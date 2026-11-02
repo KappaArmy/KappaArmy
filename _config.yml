@@ -5,7 +5,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://kappaarmy.github.io" # the base hostname & protocol for your site
 
-theme: jekylldark
+remote_theme: sutterj/jekylldark
+plugins:
+  - jekyll-remote-theme
 
 # Build settings
 markdown: kramdown
