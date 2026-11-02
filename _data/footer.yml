@@ -1,0 +1,25 @@
+- header: Title
+- header: KappaRessources
+  content: Raids and Dungeons resources for Destiny 2
+  link:
+    - title: Destiny 2 Raid Guides
+      url: /raid/
+    - title: Destiny 2 Dungeon Guides
+      url: /dungeons/
+- header: Clans
+  link:
+    - title: KappaArmy
+      url: https://www.bungie.net/en/ClanV2/Index?groupId=503302
+      image: bungie
+    - title: KappaArmy II
+      url: https://www.bungie.net/en/ClanV2/Index?groupId=4686725
+      image: bungie
+    - title: KappaArmy III
+      url: https://www.bungie.net/en/ClanV2/Index?groupId=4729681
+      image: bungie
+    - title: KappaArmy IV
+      url: https://www.bungie.net/en/ClanV2/Index?groupId=4779475
+      image: bungie
+    - title: KappaArmy V
+      url: https://www.bungie.net/en/ClanV2/Index?groupId=4848096
+      image: bungie

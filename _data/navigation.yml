@@ -1,0 +1,19 @@
+- title: Home
+  url: /
+- title: Raids
+  url: /raids/
+- title: Dungeons
+  url: /dungeons/
+- title: Clans
+  url: /clans/
+  subnavs:
+    - title: KappaArmy
+      url: https://www.bungie.net/en/ClanV2/Index?groupId=503302
+    - title: KappaArmy II
+      url: https://www.bungie.net/en/ClanV2/Index?groupId=4686725
+    - title: KappaArmy III
+      url: https://www.bungie.net/en/ClanV2/Index?groupId=4729681
+    - title: KappaArmy IV
+      url: https://www.bungie.net/en/ClanV2/Index?groupId=4779475
+    - title: KappaArmy V
+      url: https://www.bungie.net/en/ClanV2/Index?groupId=4848096
