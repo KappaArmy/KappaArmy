@@ -1,13 +1,13 @@
 - header: Title
 - header: KappaRessources
   content: Raids and Dungeons resources for Destiny 2
-  link:
+  items:
     - title: Destiny 2 Raid Guides
       url: /raid/
     - title: Destiny 2 Dungeon Guides
       url: /dungeons/
 - header: Clans
-  link:
+  items:
     - title: KappaArmy
       url: https://www.bungie.net/en/ClanV2/Index?groupId=503302
       image: bungie
