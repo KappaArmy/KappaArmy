@@ -1,13 +1,9 @@
-- header: Title
-- header: KappaRessources
-  content: Raids and Dungeons resources for Destiny 2
-  items:
-    - title: Destiny 2 Raid Guides
-      url: /raid/
-    - title: Destiny 2 Dungeon Guides
-      url: /dungeons/
-- header: Clans
-  items:
+- title: KappaArmy
+  description: Dein Destiny Clan seit Day-1
+
+  connect:
+    - title: Discord
+      url: https://discord.gg/7a5RfNz9wN
     - title: KappaArmy
       url: https://www.bungie.net/en/ClanV2/Index?groupId=503302
       image: bungie
@@ -23,3 +19,5 @@
     - title: KappaArmy V
       url: https://www.bungie.net/en/ClanV2/Index?groupId=4848096
       image: bungie
+
+  text: "Destiny 2 ist eine Marke von Bungie. Diese Seite ist eine Fan-Seite ohne offizielle Verbindung."
