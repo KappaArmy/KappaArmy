@@ -1,0 +1,4 @@
+---
+layout: default
+---
+<article class="guide"><a class="back-link" href="{% if page.category == 'Raid' %}{{ '/raids/' | relative_url }}{% else %}{{ '/dungeons/' | relative_url }}{% endif %}">← Zur Übersicht</a><p class="eyebrow">{{ page.category | default: "GUIDE" }}</p><h1>{{ page.title | default: page.slug | replace: '_', ' ' | escape }}</h1>{% if page.description %}<p class="lead">{{ page.description | escape }}</p>{% endif %}<div class="guide-body">{{ content }}</div></article>
