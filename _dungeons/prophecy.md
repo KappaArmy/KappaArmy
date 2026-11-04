@@ -1,5 +1,5 @@
 ---
-title: "Prophezeiung"
+title: "Prophecy"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
