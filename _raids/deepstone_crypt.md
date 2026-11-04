@@ -1,5 +1,5 @@
 ---
-title: "Tiefsteinkrypta"
+title: "Deep Stone Crypt"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
