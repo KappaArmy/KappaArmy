@@ -1,5 +1,5 @@
 ---
-title: "Schwur des Schülers"
+title: "Vow of the Disciple"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
