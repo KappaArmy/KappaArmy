@@ -1,5 +1,5 @@
 ---
-title: "Zerrissene Doktrin"
+title: "Sundered Doctrine"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
