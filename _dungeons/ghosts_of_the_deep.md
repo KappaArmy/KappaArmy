@@ -1,5 +1,5 @@
 ---
-title: "Geister der Tiefe"
+title: "Ghosts of the Deep"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
