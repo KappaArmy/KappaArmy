@@ -1,5 +1,5 @@
 ---
-title: "Gläserne Kammer"
+title: "Vault of Glass"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
