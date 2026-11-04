@@ -1,5 +1,5 @@
 ---
-title: Ruin des Kriegsherrn
+title: "Warlord's Ruin"
 description: KappaArmy-Guide – Inhalte folgen.
 ---
 
