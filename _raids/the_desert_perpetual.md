@@ -1,5 +1,5 @@
 ---
-title: "Die ewige Wüste"
+title: "The Desert Perpetual"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
