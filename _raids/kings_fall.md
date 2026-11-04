@@ -1,5 +1,5 @@
 ---
-title: "Königsfall"
+title: "King's Fall"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
