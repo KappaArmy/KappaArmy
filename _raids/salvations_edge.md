@@ -1,5 +1,5 @@
 ---
-title: "Rand der Erlösung"
+title: "Salvation's Edge"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
