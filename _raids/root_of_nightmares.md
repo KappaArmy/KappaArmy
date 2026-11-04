@@ -1,5 +1,5 @@
 ---
-title: "Wurzel der Albträume"
+title: "Root of Nightmares"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
