@@ -1,5 +1,5 @@
 ---
-title: "Griff der Habgier"
+title: "Grasp of Avarice"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
