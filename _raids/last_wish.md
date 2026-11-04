@@ -1,5 +1,5 @@
 ---
-title: "Letzter Wunsch"
+title: "Last Wish"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
