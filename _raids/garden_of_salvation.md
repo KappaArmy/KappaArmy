@@ -1,5 +1,5 @@
 ---
-title: "Garten der Erlösung"
+title: "Garden of Salvation"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
