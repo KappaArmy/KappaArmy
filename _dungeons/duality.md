@@ -1,5 +1,5 @@
 ---
-title: "Dualität"
+title: "Duality"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
