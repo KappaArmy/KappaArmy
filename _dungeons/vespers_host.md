@@ -1,5 +1,5 @@
 ---
-title: "Vespers Domäne"
+title: "Vesper's Host"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
