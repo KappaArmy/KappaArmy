@@ -1,5 +1,5 @@
 ---
-title: "Der zerbrochene Thron"
+title: "The Shattered Throne"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
