@@ -1,5 +1,5 @@
 ---
-title: "Crotas Ende"
+title: "Crota's End"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
