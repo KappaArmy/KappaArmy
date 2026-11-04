@@ -1,5 +1,5 @@
 ---
-title: "Grube der Ketzerei"
+title: "Pit of Heresy"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
