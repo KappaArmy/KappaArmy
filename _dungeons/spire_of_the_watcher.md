@@ -1,5 +1,5 @@
 ---
-title: "Säule der Wächterin"
+title: "Spire of the Watcher"
 description: "KappaArmy-Guide – Inhalte folgen."
 ---
 
