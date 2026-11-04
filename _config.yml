@@ -1,14 +1,26 @@
-# Site settings
-title: KappaArmy Clan Homepage
-description: > # this means to ignore newlines until "baseurl:"
-  KappaArmy - Dein Destiny Clan seit Day-1
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://kappaarmy.github.io" # the base hostname & protocol for your site
-baseurl: "/KappaArmy" # remove after moving page
-
-remote_theme: sutterj/jekylldark
-plugins:
-  - jekyll-remote-theme
-
-# Build settings
+title: KappaArmy
+description: Dein Destiny 2 Clan seit Day-1 – Community, Raids und Dungeons
+url: "https://kappaarmy.github.io"
+baseurl: "/KappaArmy"
 markdown: kramdown
+permalink: pretty
+collections:
+  raids:
+    output: true
+    permalink: /raids/:name/
+  dungeons:
+    output: true
+    permalink: /dungeons/:name/
+defaults:
+  - scope:
+      path: ""
+      type: raids
+    values:
+      layout: guide
+      category: Raid
+  - scope:
+      path: ""
+      type: dungeons
+    values:
+      layout: guide
+      category: Dungeon
