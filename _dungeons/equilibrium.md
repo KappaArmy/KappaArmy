@@ -11,9 +11,17 @@ Hier kannst du Ausrüstung und Rollen beschreiben.
 
 ## Encounter
 
-### Erster Encounter
+### 1. Harvester
 
-Beschreibe hier die Mechaniken und Strategien.
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
+
+### 2. Harrow, Dredgen-Apprentice
+
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
+
+### 3. Dredgen Sere
+
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
 
 ## Tipps und Tricks
 

@@ -11,9 +11,17 @@ Hier kannst du Ausrüstung und Rollen beschreiben.
 
 ## Encounter
 
-### Erster Encounter
+### 1. Erebus
 
-Beschreibe hier die Mechaniken und Strategien.
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
+
+### 2. Vorgeth, the Boundless Hunger
+
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
+
+### 3. Dûl Incaru, the Eternal Return
+
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
 
 ## Tipps und Tricks
 

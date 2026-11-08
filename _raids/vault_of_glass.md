@@ -11,9 +11,25 @@ Hier kannst du Ausrüstung und Rollen beschreiben.
 
 ## Encounter
 
-### Erster Encounter
+### 1. Confluxes
 
-Beschreibe hier die Mechaniken und Strategien.
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
+
+### 2. Oracles
+
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
+
+### 3. Templar
+
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
+
+### 4. Gatekeepers
+
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
+
+### 5. Atheon, Time's Conflux
+
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
 
 ## Tipps und Tricks
 

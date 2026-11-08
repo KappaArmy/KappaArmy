@@ -11,9 +11,17 @@ Hier kannst du Ausrüstung und Rollen beschreiben.
 
 ## Encounter
 
-### Erster Encounter
+### 1. Necropolis
 
-Beschreibe hier die Mechaniken und Strategien.
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
+
+### 2. Chamber of Suffering
+
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
+
+### 3. Zulmak, Instrument of Torment
+
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
 
 ## Tipps und Tricks
 

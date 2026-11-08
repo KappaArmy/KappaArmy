@@ -11,9 +11,17 @@ Hier kannst du Ausrüstung und Rollen beschreiben.
 
 ## Encounter
 
-### Erster Encounter
+### 1. Phalanx Echo
 
-Beschreibe hier die Mechaniken und Strategien.
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
+
+### 2. Hexahedron
+
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
+
+### 3. Kell Echo
+
+<!-- Mechaniken, Rollen und Tipps zu diesem Encounter hier ergaenzen. -->
 
 ## Tipps und Tricks
 
