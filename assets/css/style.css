@@ -19,3 +19,6 @@
 .portal-card.guide-card{background-color:var(--panel);background-image:linear-gradient(90deg,rgba(12,16,24,.9),rgba(12,16,24,.65)),var(--card-image);background-size:cover;background-position:center;min-height:260px;text-shadow:0 1px 3px #000}
 .portal-card.guide-card:hover{background-color:var(--panel-hover);background-image:linear-gradient(90deg,rgba(12,16,24,.85),rgba(12,16,24,.6)),var(--card-image);border-color:var(--accent)}
 .guide-card p{color:#d5dbe5}
+
+/* Keep the configured header logo aligned and undistorted. */
+img.brand-mark{object-fit:contain;vertical-align:middle;background:transparent}
