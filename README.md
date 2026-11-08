@@ -14,7 +14,7 @@ description: Mechaniken und Strategien
 
 # Vorbereitung
 
-## Erste Begegnung
+## Erster Encounter
 
 Hier steht dein Guide.
 ```

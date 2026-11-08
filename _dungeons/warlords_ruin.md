@@ -7,6 +7,6 @@ description: KappaArmy-Guide – Inhalte folgen.
 
 ## Vorbereitung
 
-## Begegnungen
+## Encounter
 
 ## Tipps und Tricks

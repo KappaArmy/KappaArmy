@@ -9,9 +9,9 @@ description: "KappaArmy-Guide – Inhalte folgen."
 
 Hier kannst du Ausrüstung und Rollen beschreiben.
 
-## Begegnungen
+## Encounter
 
-### Erste Begegnung
+### Erster Encounter
 
 Beschreibe hier die Mechaniken und Strategien.
 

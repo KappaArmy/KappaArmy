@@ -4,7 +4,7 @@ Pro Raid und Dungeon gibt es einen Ordner mit demselben Namen wie die zugehoerig
 
 - `title.jpg`: offizielles Aktivitaetsbild von Bungie (`pgcrImage`).
 - `source.json`: Quell-URL, Aktivitaets-ID und Abrufdatum.
-- Weitere Bilder (z. B. Karten oder Begegnungen) koennen im jeweiligen Ordner ergaenzt werden.
+- Weitere Bilder (z. B. Karten oder Encounter) koennen im jeweiligen Ordner ergaenzt werden.
 
 Beispiel fuer die Einbindung in Markdown:
 
