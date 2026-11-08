@@ -14,3 +14,8 @@
 .guide-body :is(h1,h2,h3,h4,h5,h6){scroll-margin-top:24px}
 @media(max-width:900px){.guide-columns{grid-template-columns:minmax(0,1fr);gap:24px}.guide-toc{grid-column:1;grid-row:1;position:static;max-height:none}.guide-columns .guide-body{grid-column:1;grid-row:2}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* Activity artwork on the raid and dungeon overview cards. */
+.portal-card.guide-card{background-color:var(--panel);background-image:linear-gradient(90deg,rgba(12,16,24,.9),rgba(12,16,24,.65)),var(--card-image);background-size:cover;background-position:center;min-height:260px;text-shadow:0 1px 3px #000}
+.portal-card.guide-card:hover{background-color:var(--panel-hover);background-image:linear-gradient(90deg,rgba(12,16,24,.85),rgba(12,16,24,.6)),var(--card-image);border-color:var(--accent)}
+.guide-card p{color:#d5dbe5}
