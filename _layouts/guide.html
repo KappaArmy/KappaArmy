@@ -1,4 +1,12 @@
 ---
 layout: default
 ---
-<article class="guide"><a class="back-link" href="{% if page.category == 'Raid' %}{{ '/raids/' | relative_url }}{% else %}{{ '/dungeons/' | relative_url }}{% endif %}">← Zur Übersicht</a><p class="eyebrow">{{ page.category | default: "GUIDE" }}</p><h1>{{ page.title | default: page.slug | replace: '_', ' ' | escape }}</h1>{% if page.description %}<p class="lead">{{ page.description | escape }}</p>{% endif %}<div class="guide-body">{{ content }}</div></article>
+<article class="guide guide-with-toc"><a class="back-link" href="{% if page.category == 'Raid' %}{{ '/raids/' | relative_url }}{% else %}{{ '/dungeons/' | relative_url }}{% endif %}">← Zur Übersicht</a><p class="eyebrow">{{ page.category | default: "GUIDE" }}</p><h1>{{ page.title | default: page.slug | replace: '_', ' ' | escape }}</h1>{% if page.description %}<p class="lead">{{ page.description | escape }}</p>{% endif %}<div class="guide-columns">
+<nav class="guide-toc" aria-label="Inhaltsverzeichnis" hidden>
+  <h2>Inhaltsverzeichnis</h2>
+  <ul></ul>
+</nav>
+<div class="guide-body">{{ content }}</div>
+</div></article>
+
+<script src="{{ "/assets/js/guide-toc.js" | relative_url }}" defer></script>
