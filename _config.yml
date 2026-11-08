@@ -4,6 +4,7 @@ url: "https://kappaarmy.github.io"
 baseurl: "/"
 markdown: kramdown
 permalink: pretty
+logo: /assets/images/logo/KappaArmy_256.webp
 collections:
   raids:
     output: true
