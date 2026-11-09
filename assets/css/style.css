@@ -22,3 +22,7 @@
 
 /* Keep the configured header logo aligned and undistorted. */
 img.brand-mark{object-fit:contain;vertical-align:middle;background:transparent}
+
+/* Make text links visible on all content pages, including Markdown pages. */
+main a[href]:not(.portal-card, .button, .back-link, .guide-toc a){color:var(--accent);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.18em;overflow-wrap:anywhere}
+main a[href]:not(.portal-card, .button, .back-link, .guide-toc a):hover{color:var(--text);text-decoration-thickness:2px}
